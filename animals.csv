@@ -1,0 +1,11 @@
+name,weight,height,category
+Elephant,6000,300,Mammal
+Giraffe,800,500,Mammal
+Shark,3000,200,Fish
+Eagle,5,1.5,Bird
+Crocodile,1000,500,Reptile
+Lion,190,120,Mammal
+Tiger,220,110,Mammal
+Penguin,25,1.2,Bird
+Whale,100000,3000,Mammal
+Frog,1,0.1,Amphibian
