@@ -1,6 +1,6 @@
 city,population,area,region
 New York,8419600,789,North America
-Los Angeles,3980400,503,South America
+Los Angeles,3980400,503,North America
 Chicago,2716000,589,North America
 Houston,2328000,637,North America
 Toronto,2930000,630,North America
@@ -12,4 +12,31 @@ Tokyo,13929286,2194,Asia
 Mumbai,18414288,603,Asia
 Cairo,20000000,606,Asia
 Lagos,14000000,1170,Africa
+Nairobi,4397000,696,Africa
+Sydney,5312163,1237,Australia
+Melbourne,5078193,987,Australia
+Bangkok,10539000,1569,Asia
+Buenos Aires,2890151,203,South America
+Rome,2873000,1285,Europe
+Madrid,3223000,604,Europe
+Kuala Lumpur,1792000,243,Asia
+Istanbul,15460000,5761,Asia
+Johannesburg,957441,1645,Africa
+Santiago,5000000,641,South America
+Lima,10430000,2670,South America
+Seattle,744955,217,North America
+San Francisco,883305,121,North America
+Dallas,1345047,385,North America
+Philadelphia,1584200,369,North America
+Lisbon,504718,1007,Europe
+Amsterdam,872680,219,Europe
+Athens,664046,1640,Europe
+Moscow,11920000,2511,Europe
+Bangalore,8443675,709,Asia
+Karachi,14910352,591,Asia
+Cincinnati,3030000,143,North America
+Phoenix,1680992,517,North America
+Helsinki,655281,715,Europe
+Addis Ababa,3747825,527,Africa
+Accra,2273290,225,Africa
 Nairobi,4397000,696,Africa
